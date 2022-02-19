@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  flex-flow: column nowrap;
+  /* height: 80vh; */
+}
+
+:root {
+  font-size: calc(1rem + ((1vw - 0.35rem) * 1.3889));
+  min-height: 0vw;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  height: 86vh;
+  background-color: #282c34;
+  color: white;
+}
+
+@media only screen 
+and (max-device-width : 750px) {
+  :root {
+    font-size: calc(1rem + ((1vw - 0.20rem) * 1.3889));
+    min-height: 0vw;
+  }
+}

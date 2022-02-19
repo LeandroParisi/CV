@@ -1,0 +1,10 @@
+.profile-photo {
+  width: 70vw;
+  border-radius: 100%;
+}
+
+@media only screen and (min-device-width: 751px) {
+  .profile-photo {
+    width: 30vw;
+  }
+}

@@ -1,0 +1,76 @@
+@import '../0.helpers/variables';
+
+#navigation-bar {
+  background-color: $yellow;
+  margin: auto;
+  width: 100%;
+  box-shadow: 5px 7px 5px rgba(250, 210, 0, 0.30);
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 10px;
+
+  & .logo {
+    margin-bottom: -0.5em;
+  }
+
+  & a {
+    color: $darkBlue;
+    text-decoration: none;
+    font-weight: 550;
+
+    & .menu-item:hover{
+      color: rgb(40,44,52);
+      font-size: calc(1rem + ((1vw - 0.55rem) * 1.3889));
+      transition: 0.5s;
+    }
+  }
+
+  & #active-page {
+    color: rgb(180, 165, 0);
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .toggle-menu {
+    order: 1;
+    width: 100%;
+    cursor: pointer;
+  }
+
+  .menu-item {
+    order: 2;
+    width: 100%;
+    display: none;
+  }
+
+  #navigation-bar.active {
+    height: 100vh;
+
+    & .menu-item {
+      display: block;
+    }
+  }
+}
+
+@media only screen and (min-width: 751px) {
+  #navigation-bar a {
+    font-size: calc(1rem + ((1vw - 0.60rem) * 1.3889));
+
+    &:not(:nth-last-child(2)){
+      border-right: 1px solid black;
+      border-width: 1px 1px 0 0;
+      padding-right: 10vw;
+    }
+  }
+
+  .toggle-menu-container {
+    display: none;
+  }
+
+  .menu-item {
+    order: 0;
+    display: initial;
+  }
+}

@@ -1,0 +1,11 @@
+.projects-grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.project-container {
+  border: 1px rgb(250, 215, 0) solid;
+  margin: 5px;
+  padding: 5px;
+}

@@ -1,0 +1,737 @@
+<REAPER_PROJECT 0.1 "6.12c/x64" 1640013130
+  RIPPLE 2
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3198 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 284.88941224029787
+  ZOOM 25.47655226259528 6593 0
+  VZOOMEX 10 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\Pitch[EN].webm"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    UE1GRgYAAAAAAAAAAAgAAAAAAACAAAAAgAcAADgEAAAAAPBBAQAAAF8AAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {C0B9BE60-3ADD-4C2A-8AF9-D72CEAF5E243}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {B294CB5F-820C-4E22-B74C-608C9E8414CB}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {AF197944-53C2-40CC-B4F5-8A20F87D7749}
+    NAME Pitch_LeandroParisi_v2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AF197944-53C2-40CC-B4F5-8A20F87D7749}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 77.58033215556088
+      SNAPOFFS 0
+      LENGTH 2.49867150702676
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      GROUP 5
+      IGUID {E0CB3814-48C8-471E-9E8A-375F8DE87052}
+      IID 22
+      NAME Pitch_LeandroParisi_v2.webm
+      VOLPAN 1 0 1 -1
+      SOFFS 86.6047099337714
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6ACA47DB-F956-4914-8AA8-42A04C82DAB0}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\2. Jobs\2021_04_09_entrevistaStone\VIdeo stone\Pitch_LeandroParisi_v2.webm"
+      >
+    >
+    <ITEM
+      POSITION 84.41253250714693
+      SNAPOFFS 0
+      LENGTH 5.4766185591925
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      GROUP 3
+      IGUID {FF10FEDA-1FD2-4916-A445-709D33087E63}
+      IID 24
+      NAME Pitch_LeandroParisi_v2.webm
+      VOLPAN 1 0 1 -1
+      SOFFS 94.57386716246313
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC95F08A-C382-4BCA-A93E-D2FD65DC3F79}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\2. Jobs\2021_04_09_entrevistaStone\VIdeo stone\Pitch_LeandroParisi_v2.webm"
+      >
+    >
+    <ITEM
+      POSITION 92.35943607073871
+      SNAPOFFS 0
+      LENGTH 2.77
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D566FDE-4D50-423A-9DDE-D43D316F2B0E}
+      IID 31
+      NAME Pitch_LeandroParisi_v2.webm
+      VOLPAN 1 0 1 -1
+      SOFFS 102.96562741418828
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C24AF814-4FDE-4ED8-8D23-90FA81EE9F52}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\2. Jobs\2021_04_09_entrevistaStone\VIdeo stone\Pitch_LeandroParisi_v2.webm"
+      >
+    >
+    <ITEM
+      POSITION 97.14815311308045
+      SNAPOFFS 0
+      LENGTH 1.86960373240231
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      GROUP 4
+      IGUID {6EEFFB4D-0CBF-4FC5-8874-1352F1F396DF}
+      IID 27
+      NAME Pitch_LeandroParisi_v2.webm
+      VOLPAN 1 0 1 -1
+      SOFFS 109.6194096650097
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89A7C4A5-2245-4E0A-A597-0357414B4BEB}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\2. Jobs\2021_04_09_entrevistaStone\VIdeo stone\Pitch_LeandroParisi_v2.webm"
+      >
+    >
+  >
+  <TRACK {0A7C2E2D-E81B-41DC-8935-A770C9FBE208}
+    NAME Pitch_Raw
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0A7C2E2D-E81B-41DC-8935-A770C9FBE208}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 9.42
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E094B5C3-AE2A-43F9-8D70-DFAC41DE3138}
+      IID 2
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80FBC220-3F6F-498A-8222-54AAF1A0647B}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 9.42
+      SNAPOFFS 0
+      LENGTH 8.12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0FFE8125-F382-4DA5-AF21-A8BF5A6E4DC2}
+      IID 6
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 11.88
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AB6011E-0094-4DFC-926F-83E71B851621}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 17.54
+      SNAPOFFS 0
+      LENGTH 7.37
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E04A2389-97B6-4F1F-B331-4B0D572F4BBA}
+      IID 8
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 20.92
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {135556A6-74E3-4630-B703-2559C2F20FA6}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 24.91
+      SNAPOFFS 0
+      LENGTH 26.72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3AE9703-A3AC-43D4-ADDB-EC2E60F60CC5}
+      IID 10
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 29.1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D54BFB4-692E-4B52-AD21-238C9221F263}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 51.63
+      SNAPOFFS 0
+      LENGTH 6.07
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {15A80065-BA23-47BE-AB09-DE92707D8C13}
+      IID 12
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 56.49
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C3DD4CB-DECD-4552-8DE2-79F8BE4C78F6}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 57.7
+      SNAPOFFS 0
+      LENGTH 15.33
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {86E5D08D-C105-42E8-9FA6-44CBC4515BD8}
+      IID 14
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 64.02
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4FBC18B-5D65-4256-B441-AF2801DBE19B}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 73.03
+      SNAPOFFS 0
+      LENGTH 71.62424831767089
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C7B3567-695A-4E47-B9BB-3CD66B7F42D5}
+      IID 18
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 81.83
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D440E06E-09DB-458F-8789-B67D4D0DB414}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 144.65424831767089
+      SNAPOFFS 0
+      LENGTH 7.57263652767412
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D26CF12E-2AE0-4BCF-B2A5-4D95BD36E371}
+      IID 35
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 154.14394941405754
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC203360-06EA-46A4-8CD9-6952BA80DB04}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 152.22688484534501
+      SNAPOFFS 0
+      LENGTH 30.83656562439822
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35B12106-8ABA-42B5-8C8B-09FEFD5210FD}
+      IID 39
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 162.54704236391154
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CFE4B6B-1624-497B-A569-C91D99F5626F}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 183.06345046974323
+      SNAPOFFS 0
+      LENGTH 0.73304628434852
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7788B7FE-A399-45B5-8FD4-0A0C6929E943}
+      IID 41
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 194.53270756918045
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C189367E-B8DE-43CD-9C11-7DF86FE239DC}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 183.79649675409175
+      SNAPOFFS 0
+      LENGTH 10.07988899346083
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E2F4FA4-647D-41D6-AE70-68D40FBBE708}
+      IID 43
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 195.46387447092047
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5FAF22C-DF2F-4198-BB34-65084782BEC4}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 193.87638574755255
+      SNAPOFFS 0
+      LENGTH 6.72853442334784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {82005365-46AF-4115-9613-898931A3B4BF}
+      IID 47
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 206.14901136529204
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82F0DE9D-1298-42F6-AE43-7FD5E8356853}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 200.60492017090039
+      SNAPOFFS 0
+      LENGTH 1.88507982909908
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {119DE881-5AD2-4B8B-B387-A39DC68870B2}
+      IID 53
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 214.27548453609614
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42644B58-668A-4097-86B6-02A34C901BD2}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 202.48999999999947
+      SNAPOFFS 0
+      LENGTH 14.23097512378925
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {833C8115-7385-4A02-AD91-C599D152C161}
+      IID 55
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 216.60056436519523
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53EF1D9E-C0E0-4AC9-9A06-40CE21744603}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 216.72097512378872
+      SNAPOFFS 0
+      LENGTH 2.64620012491216
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BCA6330C-2077-4D0C-89D1-F1DAE59543C1}
+      IID 62
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 237.2922089428923
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D7197B8-B651-47BB-9D87-991E3FDF3D70}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 219.36717524870087
+      SNAPOFFS 0
+      LENGTH 9.92325046842055
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84C9147C-ABE7-4812-96C7-6D177C4F26FC}
+      IID 65
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 240.8110920877223
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14FD41B2-F48C-44CC-AD5F-BEBF055E9327}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 229.29042571712142
+      SNAPOFFS 0
+      LENGTH 0.81638088960054
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {15A3A33E-EF0D-47EC-936F-7A20560C9523}
+      IID 69
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 252.36710433534392
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ADD2E08D-86AD-4532-9ABF-688CAF2CD8DD}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 230.10680660672196
+      SNAPOFFS 0
+      LENGTH 16.76395930197003
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD0D8EEF-1687-4086-B14A-BFA7928FB7EC}
+      IID 71
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 253.8309597235932
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E83896D-F528-442F-A22D-90ABFED579B9}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 246.87076590869199
+      SNAPOFFS 0
+      LENGTH 3.44850548193338
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FA2137C4-950F-4E6B-BB18-C61CF822F02F}
+      IID 73
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 271.4535265129017
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD81CDFB-009E-4F06-AAFE-E43B0AEB4161}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 250.31927139062537
+      SNAPOFFS 0
+      LENGTH 11.86567396436669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D033716-9182-4DCD-84EB-F99C798D40B4}
+      IID 75
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 275.66211075411832
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {801B9E41-9EBB-4A37-87D1-6A482E70CC84}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 262.18494535499207
+      SNAPOFFS 0
+      LENGTH 16.68037511790783
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8AD3AC5-9E11-42DB-B386-6FED59DE0611}
+      IID 78
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 289.00571563931356
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99473693-F456-425E-95B8-1045206493FF}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 278.8653204728999
+      SNAPOFFS 0
+      LENGTH 0.01320652116556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.003207 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0AD129C1-EB37-4EC4-8CF1-9A2EEB4DC18C}
+      IID 80
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 315.55792310196205
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95C487E9-D6EB-4A34-81B5-208AA9C9DCE5}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+    <ITEM
+      POSITION 278.87852699406545
+      SNAPOFFS 0
+      LENGTH 14.48926951791941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {8558D42F-4A57-41B2-8D75-06995FF36EA8}
+      IID 84
+      NAME Pitch_Raw.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 325.91664606892778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {823743C3-9568-4207-9CD5-97D6B3F01AF2}
+      <SOURCE VIDEO
+        FILE "E:\HD Secundário\6. Programação\1_Portfolio\3. Currículo\4.Pitch\1.Video\1.RAW\Pitch_Raw.mkv"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>
