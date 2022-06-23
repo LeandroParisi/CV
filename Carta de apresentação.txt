@@ -1,16 +1,7 @@
-
-Dear <name>, 
-
-
-My name is Leandro, I am 28 years old with background on the musical industry.
-
-I have worked for 8 months on a software factory company and I am currently working on XP Investimentos, Brazil biggest stock market company.
-
-I really identified myself with this position, and I hope to be able to contribute with your team, as I have really identified myself with your business culture and environment, I have enclosed my CV for your review. I appreciate your time and consideration for my application.
-
-Yours sincerely,
-Leandro Parisi
-
+My name is Leandro, I am 29 years old developer.
+I currently have 3 year of experience in the area. I began my carrer as front end developer for small wordpress websites.
+Then worked for 1 year at a Software house developing both front and back end systems using NodeJs, React and Typescript.
+And I'm currently working at a brazilian finance company where I take part on a team which is building an online Exchange for crypto assets.
 
 Questions:
 Why are you the best candidate for this Opportunity?
